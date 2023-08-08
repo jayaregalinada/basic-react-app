@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Happy Coding 🚀</h1>;
+  return <h1>Happy Lang</h1>;
 }
 
 export default App;
